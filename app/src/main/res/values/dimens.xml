@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="separacion">5dp</dimen>
+    <dimen name="marco">10dp</dimen>
+    <dimen name="titleSize">20dp</dimen>
+    <dimen name="button">50dp</dimen>
+</resources>

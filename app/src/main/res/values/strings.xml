@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="name">Ingrese su nombre</string>
+    <string name="phone">Ingrese su teléfono</string>
+    <string name="escolaridad">Escolaridad</string>
+    <string name="genero">Género</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="libro">Libro Favorito</string>
+    <string name="deporte">Practica Deporte</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="save">Save</string>
+
+    <string-array name="arr_escolaridad">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+</resources>
